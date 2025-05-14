@@ -10,7 +10,8 @@ location: "Tuscaloosa, US"
 
 Properties and graphs of exponential, logarithmic, and trigonometric functions are emphasized. Also includes trigonometric identities, polynomial and rational functions, inequalities, systems of equations, vectors, and polar coordinates. 
 
-Heading 1
+* Fall 2022
+* Fall 2023
 ======
 
 Heading 2
