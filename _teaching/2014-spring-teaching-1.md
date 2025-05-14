@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "Tuscaloosa, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Properties and graphs of exponential, logarithmic, and trigonometric functions are emphasized. Also includes trigonometric identities, polynomial and rational functions, inequalities, systems of equations, vectors, and polar coordinates. 
 
 Heading 1
 ======
