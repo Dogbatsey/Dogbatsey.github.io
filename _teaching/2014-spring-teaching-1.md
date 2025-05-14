@@ -12,4 +12,5 @@ Properties and graphs of exponential, logarithmic, and trigonometric functions a
 
 * Fall 2022 (1 Session)
 * Fall 2023 (2 Sessions)
+
 ======
