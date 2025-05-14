@@ -1,11 +1,3 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 <!-- 
   - title: "CV"
     url: /files/CV.pdf # Make sure 'cv.pdf' matches your actual filename
