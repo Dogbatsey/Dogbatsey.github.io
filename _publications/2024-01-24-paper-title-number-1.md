@@ -9,6 +9,6 @@ venue: 'Frontiers of Applied Mathematics and Statistics'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/fams-08-1086745.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Kwofie, T., *Dogbatsey, M.*, & Moore, S. E. (2023). Curtailing crime dynamics: A mathematical approach. Frontiers in Applied Mathematics and Statistics, 8, 1086745.'
+citation: 'Kwofie, T., Dogbatsey, M., & Moore, S. E. (2023). Curtailing crime dynamics: A mathematical approach. Frontiers in Applied Mathematics and Statistics, 8, 1086745.'
 ---
 
