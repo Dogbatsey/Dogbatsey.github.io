@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+  - title: "CV"
+    url: /files/pdf/CV.pdf # Make sure 'cv.pdf' matches your actual filename
+  
+<!-- 
 {% include base_path %}
 
 Education
@@ -61,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
