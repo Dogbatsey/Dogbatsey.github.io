@@ -2,7 +2,7 @@
 title: "Calculus I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-teaching-1
+permalink: /teaching/2023-spring-teaching-2
 venue: "The University of Alabama, Department of Mathematics"
 date: 2023-01-01
 location: "Tuscaloosa, US"

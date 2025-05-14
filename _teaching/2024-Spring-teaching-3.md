@@ -1,8 +1,8 @@
 ---
 title: "Applied Differential Equations I"
-collection: teaching experience 
+collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-Fall-teaching-1
+permalink: /teaching/2022-Fall-teaching-3
 venue: "The University of Alabama, Department of Mathematics"
 date: 2023-01-01
 location: "Tuscaloosa, US"
