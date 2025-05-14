@@ -17,8 +17,6 @@ author_profile: true
     url: /files/CV.pdf # Make sure 'cv.pdf' matches your actual filename
    -->
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
