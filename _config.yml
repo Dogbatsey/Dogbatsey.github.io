@@ -29,7 +29,7 @@ author:
   location         : "Tuscaloosa, Alabama"
   employer         : "The University of Alabama"
   position         : "Graduate Research Assistant"
-  uri              : https://www.ua.edu
+  uri              : #https://www.ua.edu
   email            : "mdogbatsey@crimson.ua.edu" 
 
   # Academic websites
