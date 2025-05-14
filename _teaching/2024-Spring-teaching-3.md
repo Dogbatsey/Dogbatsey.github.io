@@ -1,6 +1,6 @@
 ---
 title: "Applied Differential Equations I"
-collection: teaching
+collection: teaching experience 
 type: "Undergraduate course"
 permalink: /teaching/2022-Fall-teaching-1
 venue: "The University of Alabama, Department of Mathematics"
