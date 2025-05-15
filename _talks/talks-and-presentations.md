@@ -4,6 +4,13 @@ title: " "
 permalink: /talks/
 author_profile: true
 ---
+Research
+======
+
+
+
+
+
 Talks
 ======
 * Numerical solutions to the 3D p-Laplace equations, [2025 Southeast Applied and Computational Mathematics Graduate Student Workshop](https://webhome.auburn.edu/~tzh0059/2025ACMworkshop.html), Auburn University, Auburn, AL, USA - April 2025.
