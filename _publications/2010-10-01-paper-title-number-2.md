@@ -7,7 +7,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 date: 2010-10-01
 venue: 'Frontiers of Applied Mathematics and Statistics'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files//fams-08-1086745.pdf'
+paperurl: 'http://academicpages.github.io/files//fams24.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 citation: 'Kwofie, T., <strong>Dogbatsey, M.</strong>, & Moore, S. E. (2023). Curtailing crime dynamics: A mathematical approach. Frontiers in Applied Mathematics and Statistics, 8, 1086745.'
 ---
