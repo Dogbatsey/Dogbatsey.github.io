@@ -3,10 +3,13 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-# redirect_from:
-#   - /resume
-url: /files/CV.pdf
+redirect_from:
+  - /resume
 ---
+{% include base_path %}
+
+<iframe src="/files/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 <!-- 
   - title: "CV"
     url: /files/CV.pdf # Make sure 'cv.pdf' matches your actual filename
