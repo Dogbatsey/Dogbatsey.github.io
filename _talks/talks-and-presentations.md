@@ -6,7 +6,7 @@ author_profile: true
 ---
 Research
 ======
-
+My research interest lies in the field of mathematical biology, where I focus on developing fast numerical solvers to address problems in structural and molecular biology. 
 
 
 
