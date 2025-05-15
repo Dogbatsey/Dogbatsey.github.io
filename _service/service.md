@@ -19,3 +19,8 @@ Service
   * Served as a judge for the 2024 Ohio Science Day, organized by the Ohio Academy of Arts and Sciences. Judged research carried out by high school and middle school students.
 * **Judge:** Undergraduate Research and Creative Activity Conference (URCA), 2024.
   * Served as a judge for the 2024 URCA, organized by the University of Alabama, judging research by undergraduate students.
+  
+  
+  
+Awards and Honors
+======
