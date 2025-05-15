@@ -14,3 +14,7 @@ redirect_from:
  
  Education
 ======
+* 2021 - 2026 Ph.D in Mathematics, The University of Alabama
+* 2021 - 2023 MA in Mathematics, The University of Alabama
+* 2019 - 2020 M.Sc. in Mathematical Sciences, The African Institute for Mathematical Sciences, Ghana (AIMS - GH)
+* 2013 - 2017 B.Sc. in Mathematics with Economics, University of Cape Coast, Ghana 
