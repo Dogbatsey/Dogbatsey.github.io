@@ -30,7 +30,7 @@ Awards and Honors
 	* Received for SIAM SEAS 2025.
 * Graduate Student Travel Award (2025) - UA Graduate School
 	* Received for SIAM SEAS 2025 and Southeast ACM Graduate Workshop
-* Graduate Student Travel Award (2023) UA Graduate School
+* Graduate Student Travel Award (2023) - UA Graduate School
 	* Received for JMM 2024.
 * AIMS Masters in Mathematical Sciences Scholarship (2019-2020)
 	* Full scholarship awarded to attend the masters program at AIMS Ghana.
