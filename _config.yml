@@ -13,7 +13,7 @@ title                    : "Matthias Dogbatsey"
 title_separator          : "-"
 name                     : &name "Matthias Dogbatsey"
 description              : &description "I am a PhD student at the University of Alabama. My research interests are Applied Mathematics, Numerical Analysis, Mathematical Biology, Scientific Computing and Social Dynamics Modeling."
-url                      : https://mdogbatsey.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://dogbatsey.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dogbatsey/Dogbatsey.github.io"
 
