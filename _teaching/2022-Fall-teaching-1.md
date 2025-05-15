@@ -8,7 +8,7 @@ date: 2022-08-01
 location: "Tuscaloosa, AL, USA"
 ---
 
-Properties and graphs of exponential, logarithmic, and trigonometric functions are emphasized. Also includes trigonometric identities, polynomial and rational functions, inequalities, systems of equations, vectors, and polar coordinates. 
+Topic include properties and graphs of exponential, logarithmic, and trigonometric functions are emphasized. Also includes trigonometric identities, polynomial and rational functions, inequalities, systems of equations, vectors, and polar coordinates. 
 
 * Fall 2022 (1 Session)
 * Fall 2023 (2 Sessions)
