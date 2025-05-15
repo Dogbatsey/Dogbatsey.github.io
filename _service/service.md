@@ -24,3 +24,12 @@ Service
   
 Awards and Honors
 ======
+* Student Travel Award (2025)
+	* Received for Southeast ACM Graduate Student Workshop (Auburn University )
+* Student Travel Award (2025)
+	* Received for SIAM SEAS 2025 (University of Tennesse at Knoxville)
+* Graduate Student Travel Award (2025)
+	* Received for SIAM SEAS 2025 and Southeast ACM Graduate Workshop (UA Graduate School)
+* Graduate Student Travel Award (2023)
+	* Received for JMM 2024 (UA Graduate School)
+* AIMS Masters in Mathematical Sciences Scholarship (2019-2020)
