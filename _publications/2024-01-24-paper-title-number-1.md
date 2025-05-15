@@ -7,7 +7,7 @@ permalink: /publication/2024-01-24-paper-title-number-1
 date: 2024-01-24
 venue: 'Frontiers of Applied Mathematics and Statistics'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/fams24.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Kwofie, T., <strong>Dogbatsey, M.</strong>, & Moore, S. E. (2023). Curtailing crime dynamics: A mathematical approach. Frontiers in Applied Mathematics and Statistics, 8, 1086745.'
 ---
