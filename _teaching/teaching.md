@@ -6,7 +6,9 @@ author_profile: true
 ---
 [The University of Alabama](https://www.ua.edu)
 ======
+
 Instructor
+======
 	* Summer 2025: Precalculus Trigonometry
 	* Spring 2025: Calculus III
 	* Spring 2024: Applied Differential Equations I
