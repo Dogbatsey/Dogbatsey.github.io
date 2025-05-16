@@ -13,7 +13,7 @@ Service
   * Served on the Academic Development Committee of the house, where we worked on resolutions to help graduate students in their job search and get additional funding for conferences.
 * **Grader:** MATHCOUNTS, 2022-2025.
   * Served as a grader for the [MATHCOUNTS competition](https://www.mathcounts.org) for pupils in grades six to eight in West Alabama, organized by the MATHCOUNTS Foundation, and hosted by the University of Alabama.
-* **Judge:** S[IMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 2024.
+* **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 2024.
   * Served as a judge for SCUDEM IX 2024, organized by SIMIODE. Judged undergraduate students’ research on modeling using differential equations and MATLAB worldwide.
 * **Judge:** Ohio Science Day, 2024.
   * Served as a judge for the [2024 Ohio Science Day](https://www.ohiosci.org/science-days/), organized by the Ohio Academy of Arts and Sciences. Judged research carried out by high school and middle school students.
