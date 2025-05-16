@@ -8,7 +8,7 @@ author_profile: true
 ======
 
 Instructor
-======
+===
 	- Summer 2025: Precalculus Trigonometry
 	- Spring 2025: Calculus III
 	- Spring 2024: Applied Differential Equations I
@@ -17,12 +17,12 @@ Instructor
 	- Fall 2022: Precalculus Algebra and Trigonometry
 
 Tutoring
-======
+===
 	- Precalculus Algebra
 	- Calculus I, II, III
 	- Calculus and Applications
 
 Grading
-======
+===
 	- Discrete Mathematics
 
