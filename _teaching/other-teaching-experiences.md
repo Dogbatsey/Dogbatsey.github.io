@@ -11,8 +11,11 @@ location: "Tuscaloosa, AL, USA"
  
 
 * Grading:
-	* Discrete Mathematics
+	* Discrete Mathematics (Spring 2022)
 * Tutoring:
-	* 
+	* Precalculus Algebra
+	* Precalculus Trigonometry
+	* Business Calculus
+	* Calculus I, II, III
 
 
