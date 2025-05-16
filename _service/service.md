@@ -8,7 +8,7 @@ author_profile: true
 Service
 ======
 * **Judge:** SIAM M3 Challenge, 2025.
-  * Served as a triage judge for the MathWorks Math Modeling (M3) Challenge, organized by SIAM. Graded and provided feedback to challenge teams of over 20 teams of high school students in the United States and sixth form students in England and Wales.
+  * Served as a triage judge for the [MathWorks Math Modeling (M3) Challenge](https://m3challenge.siam.org), organized by SIAM. Graded and provided feedback to challenge teams of over 20 teams of high school students in the United States and sixth form students in England and Wales.
 * **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
   * Served on the Academic Development Committee of the house, where we worked on resolutions to help graduate students in their job search and get additional funding for conferences.
 * **Grader:** MATHCOUNTS, 2022-2025.
