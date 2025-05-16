@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/other-teaching-experiences
 venue: "The University of Alabama, Department of Mathematics"
-date: 2021-08-01
+date: 2021-08-16
 location: "Tuscaloosa, AL, USA"
 ---
 
