@@ -1,5 +1,5 @@
 ---
-title: "Calculus III"
+title: "Math 227 - Calculus III"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-Spring-teaching-4

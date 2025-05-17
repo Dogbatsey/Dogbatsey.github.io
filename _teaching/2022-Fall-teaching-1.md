@@ -1,5 +1,5 @@
 ---
-title: "Precalculus Algebra and Trigonometry"
+title: "Math 115 - Precalculus Algebra and Trigonometry"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-Fall-teaching-1

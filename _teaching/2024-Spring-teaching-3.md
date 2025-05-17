@@ -1,5 +1,5 @@
 ---
-title: "Applied Differential Equations I"
+title: "Math 238 - Applied Differential Equations I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-Fall-teaching-3

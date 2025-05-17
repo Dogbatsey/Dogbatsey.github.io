@@ -1,5 +1,5 @@
 ---
-title: "Calculus I"
+title: "Math 125 - Calculus I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-Spring-teaching-2

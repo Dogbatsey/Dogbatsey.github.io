@@ -1,5 +1,5 @@
 ---
-title: "Precalculus Trigonometry"
+title: "Math 113 - Precalculus Trigonometry"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-Summer-teaching-5
