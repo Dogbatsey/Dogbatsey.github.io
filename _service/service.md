@@ -8,6 +8,15 @@ author_profile: true
 Service
 ======
 * **Judge:** [SIAM M3 Challenge, 2025](https://m3challenge.siam.org).
+* **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
+* **Grader:** [MATHCOUNTS, 2022-2025](https://www.mathcounts.org).
+* **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 2024.
+* **Judge:** [Ohio Science Day, 2024](https://www.ohiosci.org/science-days/).
+* **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 2024.
+  
+  
+<!-- 
+* **Judge:** [SIAM M3 Challenge, 2025](https://m3challenge.siam.org).
   * Served as a triage judge for the MathWorks Math Modeling (M3) Challenge, organized by SIAM. Graded and provided feedback to challenge teams of over 20 teams of high school students in the United States and sixth form students in England and Wales.
 * **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
   * Served on the Academic Development Committee of the house, where we worked on resolutions to help graduate students in their job search and get additional funding for conferences.
@@ -21,6 +30,7 @@ Service
   * Served as a judge for the 2024 URCA, organized by the University of Alabama, judging research by undergraduate students.
   
   
+ -->
   
 Awards and Honors
 ======
