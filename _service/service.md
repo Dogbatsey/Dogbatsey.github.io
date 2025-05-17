@@ -7,12 +7,12 @@ author_profile: true
 
 Service
 ======
-* **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org), 2025.
+* **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org), 03/2025.
 * **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
-* **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 2022-2025.
+* **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 02/2022-02/2025.
 * **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 2024.
 * **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/), 2024.
-* **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 2024.
+* **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 04/2024.
   
   
 <!-- 
