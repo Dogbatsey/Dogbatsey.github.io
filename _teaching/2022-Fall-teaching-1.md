@@ -10,6 +10,6 @@ location: "Tuscaloosa, AL, USA"
 
 Topic include properties and graphs of exponential, logarithmic, and trigonometric functions are emphasized. Also includes trigonometric identities, polynomial and rational functions, inequalities, systems of equations, vectors, and polar coordinates. 
 
-* Fall 2022 (1 Session)
-* Fall 2023 (2 Sessions)
+* [Fall 2022](/files/Fall-2022-MATH-115-012-Precalc-Algebra-&-Trig.pdf) (1 Session)
+* [Fall 2023](/files/Fall-2023-MATH-115-007-Precalc-Algebra-&-Trig.pdf)  (2 Sessions)
 

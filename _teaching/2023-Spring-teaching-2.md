@@ -10,4 +10,4 @@ location: "Tuscaloosa, AL, USA"
 
 Topics include the limit of a function; the derivative of algebraic, trigonometric, exponential, and logarithmic functions; and the definite integral. Applications of the derivative are covered in detail, including approximations of error using differentials, maxima and minima problems, and curve sketching using calculus. There is also a brief review of selected precalculus topics at the beginning of the course. 
 
-* Spring 2023
+* [Spring 2023](/files/Spring-2023-MATH-125-012-.pdf)

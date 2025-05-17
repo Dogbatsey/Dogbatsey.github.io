@@ -10,5 +10,5 @@ location: "Tuscaloosa, AL, USA"
 
 The course includes study of trigonometric functions, inverse trigonometric functions, trigonometric identities and trigonometric equations. Complex numbers, De Moivre's Theorem, polar coordinates, vectors and other topics in algebra are also addressed, including conic sections, sequences and series. 
 
-* Summer 2025 (1 Session)
+* [Summer 2025](/files/Summer-2025-MATH-113-100-.pdf) (1 Session)
 
