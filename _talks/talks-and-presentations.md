@@ -6,7 +6,7 @@ author_profile: true
 ---
 Research
 ======
-My research interest lies in the field of mathematical biology, where I focus on developing fast numerical solvers to address problems in structural and molecular biology. 
+My research lies at the intersection of Scientific Computing, Numerical Analysis, Mathematical Biology, and Applied Mathematics, with a particular focus on modeling complex physical phenomena using differential equations and developing efficient numerical algorithms to solve them on high-performance computing (HPC) platforms.
 * **Mathematical Biology:** Mathematical methods for molecular biology; Implicit solvent models; Biomolecular solvation analysis; Ensemble averaged electrostatics; PDE modeling of molecular surface.
 * **Scientific Computing:**  Material interface problems; Electrostatic analysis; Biomolecular simulations.
 * **Numerical Methods for PDEs:** Matched interface and boundary (MIB) method; Alternating direction implicit (ADI) methods.
