@@ -11,11 +11,11 @@ location: "Tuscaloosa, AL, USA"
  
 
 * Grading:
-	* Discrete Mathematics (Spring 2022)
+	* Math 301 - Discrete Mathematics (Spring 2022)
 * Tutoring:
-	* Precalculus Algebra
-	* Precalculus Trigonometry
-	* Business Calculus
+	* Math 112 - Precalculus Algebra
+	* Math 113 - Precalculus Trigonometry
+	* Math 121 - Business Calculus
 	* Calculus I, II, III
 
 
