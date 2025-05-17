@@ -7,7 +7,7 @@ author_profile: true
 
 Service
 ======
-* **Judge:** [SIAM M3 Challenge, 2025](https://m3challenge.siam.org).
+* **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org), 2025.
 * **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
 * **Grader:** [MATHCOUNTS, 2022-2025](https://www.mathcounts.org).
 * **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 2024.
