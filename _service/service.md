@@ -12,7 +12,7 @@ Service
 * **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 02/2022-02/2025.
 * **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 2024.
 * **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/), 2024.
-* **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 04/2024.
+* **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 03/2024.
   
   
 <!-- 
