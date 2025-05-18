@@ -17,4 +17,10 @@ redirect_from:
 * 2021 - 2026 Ph.D. in Mathematics, [The University of Alabama](https://www.ua.edu), Tuscaloosa, AL, USA
 * 2021 - 2023 M.A. in Mathematics, [The University of Alabama](https://www.ua.edu), Tuscaloosa, AL, USA
 * 2019 - 2020 M.Sc. in Mathematical Sciences, [The African Institute for Mathematical Sciences](https://aims.edu.gh), Ghana (AIMS - GH)
-* 2013 - 2017 B.Sc. in Mathematics with Economics, [University of Cape Coast](https://ucc.edu.gh), Ghana 
+* 2013 - 2017 B.Sc. in Mathematics with Economics, [University of Cape Coast](https://ucc.edu.gh), Ghana
+
+
+Certification
+======
+* 2020 Graduate Certificate in Business Management (Industry Immersion Program), [ESMT Berlin](https://esmt.berlin), Berlin, Germany
+* 2019 Ghana Stock Exchange Securities Certification, [Ghana Stock Exchange](https://www.gisinstitute.org), Accra, Ghana
