@@ -22,5 +22,5 @@ redirect_from:
 
 Certification
 ======
-* 2020 Graduate Certificate in Business Management (Industry Immersion Program), [ESMT Berlin](https://esmt.berlin), Berlin, Germany
+* 2020 Graduate Certificate in Business Management ([AIMS-ESMT Industry Immersion Program](https://nexteinstein.org/i2/aims-esmt-industry-immersion-program-2/)), [ESMT Berlin](https://esmt.berlin), Berlin, Germany
 * 2019 Ghana Stock Exchange Securities Certification, [Ghana Stock Exchange](https://www.gisinstitute.org), Accra, Ghana
