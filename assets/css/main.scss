@@ -41,3 +41,20 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+a {
+  color: crimson; /* For standard links */
+}
+
+a:visited {
+  color: crimson; /* Optional: For visited links, if you want them the same */
+}
+
+a:hover {
+  /* Optional: Define a hover color if desired, e.g., a darker crimson */
+  color: #a50f2b;
+}
+
+a:active {
+  /* Optional: Define an active (on click) color if desired */
+  color: #800020;
+}
