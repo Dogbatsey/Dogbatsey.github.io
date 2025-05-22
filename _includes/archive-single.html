@@ -43,19 +43,26 @@
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 <!--           		<br> -->
-				{% for link in post.links %}
- 				 <a href="{{ link.url | relative_url }}" target="_blank" rel="noopener noreferrer">
-    			{% if link.name == "PDF" %}
-     			 <i class="far fa-fw fa-file-pdf" aria-hidden="true"></i>
-    			{% elsif link.name == "Publisher Site" or link.name == "Link" or link.name == "DOI" %}
-    		  	<i class="fas fa-fw fa-link" aria-hidden="true"> </i>
-    			{% else %}
-      			<i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i>
-    			{% endif %}
-    			{{ link.name }}
-  				</a>{% unless forloop.last %} | {% endunless %}
-<!--   				<br> -->
-			{% endfor %}
+				{% if page.citation %}
+  			<div class="citation">
+    		<strong>Recommended citation:</strong> {{ page.citation }}
+  			</div>
+			{% endif %}
+			{% if post.links %}
+ 			<div class="publication-links" style="margin-top: 0.25em;">
+    		{% for link in post.links %}
+      		<a href="{{ link.url | relative_url }}" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5em;">
+        		{% if link.name == "PDF" %}
+          		<i class="far fa-fw fa-file-pdf" aria-hidden="true"></i>
+        		{% elsif link.name == "Publisher Site" or link.name == "Link" or link.name == "DOI" %}
+          		<i class="fas fa-fw fa-link" aria-hidden="true"></i>
+        		{% else %}
+          		<i class="fas fa-fw fa-external-link-alt" aria-hidden="true" title="{{ link.name }}"></i>
+        		{% endif %}
+      			</a>{% unless forloop.last %}|{% endunless %}
+    			{% endfor %}
+  				</div>
+			{% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -93,27 +100,6 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
-    
-{% if page.citation %}
-  <div class="citation">
-    <strong>Recommended citation:</strong> {{ page.citation }}
-  </div>
-{% endif %}
-{% if post.links %}
-  <div class="publication-links" style="margin-top: 0.25em;">
-    {% for link in post.links %}
-      <a href="{{ link.url | relative_url }}" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5em;">
-        {% if link.name == "PDF" %}
-          <i class="far fa-fw fa-file-pdf" aria-hidden="true" title="PDF"></i>
-        {% elsif link.name == "Publisher Site" or link.name == "Link" or link.name == "DOI" %}
-          <i class="fas fa-fw fa-link" aria-hidden="true" title="Publisher site"></i>
-        {% else %}
-          <i class="fas fa-fw fa-external-link-alt" aria-hidden="true" title="{{ link.name }}"></i>
-        {% endif %}
-      </a>{% unless forloop.last %}|{% endunless %}
-    {% endfor %}
-  </div>
-{% endif %}
 
 
     
