@@ -42,7 +42,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          		<br>
+<!--           		<br> -->
 				{% for link in post.links %}
  				 <a href="{{ link.url | relative_url }}" target="_blank" rel="noopener noreferrer">
     			{% if link.name == "PDF" %}
