@@ -72,18 +72,19 @@ layout: default
         {% elsif page.bibtexurl %}
           <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
         {% endif %}
-        
-        {% if page.links %}
+
+{% if page.links %}
   <div class="publication-links" style="margin-top: 0.25em;">
     {% for link in page.links %}
-      <a href="{{ link.url | relative_url }}" target="_blank" rel="noopener noreferrer" style="margin-right: 0.5em;">
+      <a href="{{ link.url | relative_url }}" target="_blank" rel="noopener noreferrer">
         {% if link.name == "PDF" %}
-          <i class="far fa-fw fa-file-pdf" aria-hidden="true" title="PDF"></i>
+          <i class="far fa-fw fa-file-pdf" aria-hidden="true"></i>
         {% elsif link.name == "Publisher Site" or link.name == "Link" or link.name == "DOI" %}
-          <i class="fas fa-fw fa-link" aria-hidden="true" title="Publisher site"></i>
+          <i class="fas fa-fw fa-link" aria-hidden="true"> </i>
         {% else %}
-          <i class="fas fa-fw fa-external-link-alt" aria-hidden="true" title="{{ link.name }}"></i>
+          <i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i>
         {% endif %}
+        {{ link.name }}
       </a>{% unless forloop.last %}|{% endunless %}
     {% endfor %}
   </div>
