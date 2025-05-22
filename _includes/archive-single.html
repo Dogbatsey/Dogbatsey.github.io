@@ -42,6 +42,25 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% if post.links %}
+      <br> {# Add a line break for spacing before the links section #}
+      {% for link in post.links %}
+        <a href="{{ link.url | relative_url }}" target="_blank" rel="noopener noreferrer">
+          {% if link.name == "PDF" %}
+            <i class="far fa-fw fa-file-pdf" aria-hidden="true"></i>
+          {% elsif link.name == "Publisher Site" or link.name == "Link" or link.name == "DOI" %}
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i>
+          {% else %}
+            {# You can add a generic icon or no icon for other link names #}
+          {% endif %}
+          {{ link.name }}
+        </a>
+        {% unless forloop.last %} | {% endunless %} {# Add a separator between links, but not after the last one #}
+      {% endfor %}
+    {% elsif post.paperurl %} {# Fallback for the old paperurl field if 'links' is not present #}
+      <br>
+      <a href="{{ post.paperurl | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Link to Publication</a>
+    {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
