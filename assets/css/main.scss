@@ -60,6 +60,7 @@ a:hover {
 // }
 /* Dark mode: blue links */
 @media (prefers-color-scheme: dark) {
-  a {
-    color: 'blue'; /* or simply 'blue' */
+  a:hover,
+  a:focus {
+    color: #66b2ff;
   }
