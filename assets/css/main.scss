@@ -61,5 +61,5 @@ a:hover {
 /* Dark mode: blue links */
 @media (prefers-color-scheme: dark) {
   a {
-    color: #52adc8; /* or simply 'blue' */
+    color: 'blue'; /* or simply 'blue' */
   }
