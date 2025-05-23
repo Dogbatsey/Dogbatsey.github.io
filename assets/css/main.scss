@@ -58,4 +58,8 @@ a:hover {
 //   /* Optional: Define an active (on click) color if desired */
 //   color: #800020;
 // }
-
+/* Dark mode: blue links */
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #3399ff; /* or simply 'blue' */
+  }
