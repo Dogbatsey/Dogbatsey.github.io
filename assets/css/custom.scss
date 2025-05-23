@@ -1,0 +1,11 @@
+/* Default light theme: crimson links */
+a {
+  color: crimson;
+}
+
+/* Dark theme: blue links */
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #3399ff;
+  }
+}
