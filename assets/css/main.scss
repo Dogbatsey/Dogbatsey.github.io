@@ -41,6 +41,8 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 // _sass/custom/_variables.scss
 
 // Set default (light theme) link color to Crimson
