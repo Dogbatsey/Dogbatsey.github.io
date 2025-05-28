@@ -1,4 +1,3 @@
-<!-- 
 ---
 layout: archive
 title: " "
@@ -19,4 +18,3 @@ Preprints
 
 * **M. Dogbatsey**, Z. Chen, Y. Shao, and S. Zhao, Numerical solution to the three-dimensional p-Laplace equation: Finite difference methods and biological applications, preprint (2025).
 
- -->
