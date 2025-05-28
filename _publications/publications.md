@@ -8,4 +8,11 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile.](https://scholar.google.com/citations?user=avyudjUAAAAJ&hl=en)
 
-* Kwofie, T., <strong>Dogbatsey, M.</strong>, & Moore, S. E. (2023). Curtailing crime dynamics: A mathematical approach. Frontiers in Applied Mathematics and Statistics, 8, 1086745.[(PDF](/files/fams24.pdf), [Publisher Link)](https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2022.1086745/full)
+* Kwofie, T., <strong>Dogbatsey, M.</strong>, and Moore, S. E. (2023). [Curtailing crime dynamics: A mathematical approach](/files/fams24.pdf). Frontiers in Applied Mathematics and Statistics, 8, 1086745.[(PDF](/files/fams24.pdf), [Publisher Link)](https://www.frontiersin.org/journals/applied-mathematics-and-statistics/articles/10.3389/fams.2022.1086745/full)
+
+
+
+Preprints
+=========
+
+* **M. Dogbatsey**, Z. Chen, Y. Shao, and S. Zhao, Numerical solution to the three-dimensional p-Laplace equation: Finite difference methods and biological applications, preprint (2025).
