@@ -17,3 +17,12 @@ $link-color-hover: darken(crimson, 15%) !default; // A darker shade of crimson o
 // a:visited {
 //   color: darken(crimson, 10%) !default; // A slightly darker crimson for visited links
 // }
+
+// _sass/custom/_styles.scss
+
+// Style for H1 in the DEFAULT (light) theme only
+body:not(.theme--dark) {
+  h1 {
+    color: crimson; // You can use the CSS keyword 'crimson' or its hex code #DC143C
+  }
+}
