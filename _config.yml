@@ -25,7 +25,7 @@ author:
   avatar           : "profile-2.jpg"
   name             : "Matthias Dogbatsey"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, <br>Scientific Computing</br>, Mathematical Biology, Computational Mathematics"
+  bio              : "Ph.D. Candidate <br>Scientific Computing</br> <br>Mathematical Biology</br> <br>Computational Mathematics</br>"
   location         : "Tuscaloosa, Alabama"
   employer         : "University of Alabama, The"
   position         : "Graduate Research Assistant"
