@@ -45,6 +45,6 @@ Awards and Honors
 * AIMS Masters in Mathematical Sciences Scholarship (2019-2020)
 	* Full scholarship awarded to attend the masters program at AIMS Ghana.
 * AIMS Workshop Funding (2020) - African Institute for Mathematical Sciences, Ghana
-	* Recieved to attend Stochastic and Applications, Research and Training (START) Workshop
+	* Received to attend Stochastic and Applications, Research and Training (START) Workshop
 * AIMS Workshop Funding (2019 - African Institute for Mathematical Sciences, Ghana
-	* Recieved to attend Probability, Analysis and Applications (PAA) Workshop
+	* Received to attend Probability, Analysis and Applications (PAA) Workshop
