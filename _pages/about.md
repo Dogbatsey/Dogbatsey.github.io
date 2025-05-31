@@ -20,7 +20,7 @@ redirect_from:
 * 2013 - 2017 B.Sc. in Mathematics with Economics, [University of Cape Coast](https://ucc.edu.gh), Ghana
 
 
-Certification
+Certificates
 ======
 * 2020 Graduate Certificate in Business Management ([AIMS-ESMT Industry Immersion Program](https://nexteinstein.org/i2/aims-esmt-industry-immersion-program-2/)), [ESMT Berlin](https://esmt.berlin), Berlin, Germany
 * 2019 Ghana Stock Exchange [Securities Certification](https://www.gisinstitute.org), [Ghana Stock Exchange](https://gse.com.gh), Accra, Ghana
