@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: " "
+title: "Service "
 permalink: /service/
 author_profile: true
 ---
 
+<!-- 
 Service
 ======
+ -->
 * **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org), 03/2025.
 * **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
 * **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 02/2022 - 02/2025.
