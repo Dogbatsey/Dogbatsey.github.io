@@ -21,6 +21,7 @@ Preprints
 * **Dogbatsey, M.**, Chen, Z., Shao, Y., and Zhao, S. Numerical solution to the three-dimensional p-Laplace equation: Finite difference methods and biological applications, preprint (2025).
 
 
+<!-- 
 Talks
 ======
 
@@ -32,4 +33,5 @@ Talks
 
 
 Posters
+ -->
 ======
