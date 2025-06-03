@@ -18,7 +18,7 @@ My research lies at the intersection of Scientific Computing, Numerical Analysis
 Preprints
 ======
 
-* **Dogbatsey, M.**, Chen, Z., Shao, Y., and Zhao, S. Numerical solution to the three-dimensional p-Laplace equation: Finite difference methods and biological applications, preprint (2025).
+* **M. Dogbatsey,**, Z. Chen, Y. Shao, and S. Zhao, Numerical solution to the three-dimensional p-Laplace equation: Finite difference methods and biological applications, preprint (2025).
 
 
 <!-- 
