@@ -16,5 +16,12 @@ Talks
 
 
 
+Selected Workshops
+======
+* [3rd Stochastic and Applications, Research and Training (START) Workshop](https://aims.edu.gh/event/stochastic-applications-research-training/) (02/17/2020 - 02/21/2020)
+	* Engaged in a week-long lectures infocused on stochastic optimal control in both discrete and continuous time at AIMS Ghana.
+* [Probability, Analysis and Applications (PAA) Workshop](https://aims.edu.gh/event/probability-analysis-and-applications-paa-workshop/) (09/29/2019 - 10/04/2019)
+	* Engaged in a week-long lectures in Probability, Analysis and Applications at AIMS Ghana.
+
 Posters
 ======
