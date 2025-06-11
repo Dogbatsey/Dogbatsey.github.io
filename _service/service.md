@@ -9,12 +9,12 @@ author_profile: true
 Service
 ======
  -->
-* **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org), 03/2025.
-* **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/), House of Delegates, 08/2024-05/2025.
-* **Grader:** [MATHCOUNTS](https://www.mathcounts.org), 02/2022 - 02/2025.
-* **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/), 10/2024.
-* **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/), 04/2024.
-* **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/), 03/2024.
+* **Judge:** [SIAM M3 Challenge](https://m3challenge.siam.org){:target="_blank"}, 03/2025.
+* **Delegate:** [Graduate Students Association](https://gsa.ua.edu/delegates/){:target="_blank"}, House of Delegates, 08/2024-05/2025.
+* **Grader:** [MATHCOUNTS](https://www.mathcounts.org){:target="_blank"}, 02/2022 - 02/2025.
+* **Judge:** [SIMIODE Challenge Using Differential Equations Modelling (SCUDEM) IX](https://qubeshub.org/community/groups/simiode/){:target="_blank"}, 10/2024.
+* **Judge:** [Ohio Science Day](https://www.ohiosci.org/science-days/){:target="_blank"}, 04/2024.
+* **Judge:** [Undergraduate Research and Creative Activity Conference (URCA)](https://research.ua.edu/our/urca/){:target="_blank"}, 03/2024.
   
   
 <!-- 
@@ -47,6 +47,6 @@ Awards and Honors
 * AIMS Masters in Mathematical Sciences Scholarship (2019-2020)
 	* Full scholarship awarded to attend the masters program at AIMS Ghana.
 * AIMS Workshop Funding (2020) - African Institute for Mathematical Sciences, Ghana
-	* Received to attend [Stochastic and Applications, Research and Training (START)  Workshop](https://aims.edu.gh/event/stochastic-applications-research-training/)
+	* Received to attend [Stochastic and Applications, Research and Training (START)  Workshop](https://aims.edu.gh/event/stochastic-applications-research-training/){:target="_blank"}
 * AIMS Workshop Funding (2019 - African Institute for Mathematical Sciences, Ghana
-	* Received to attend[ Probability, Analysis and Applications (PAA) Workshop](https://aims.edu.gh/event/probability-analysis-and-applications-paa-workshop/)
+	* Received to attend[ Probability, Analysis and Applications (PAA) Workshop](https://aims.edu.gh/event/probability-analysis-and-applications-paa-workshop/){:target="_blank"}
