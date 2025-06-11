@@ -4,7 +4,7 @@ title: " "
 permalink: /teaching/
 author_profile: true
 ---
-[The University of Alabama](https://www.ua.edu)
+[The University of Alabama](https://www.ua.edu){:target="_blank"}
 ======
 
 Instructor
