@@ -1,3 +1,15 @@
 <!-- start custom footer snippets -->
 <a href="/sitemap/">Sitemap</a>
 <!-- end custom footer snippets -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const links = document.querySelectorAll("a[href^='http']");
+    links.forEach(function (link) {
+      // Only modify links that go to a different domain
+      if (!link.href.includes(location.hostname)) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+</script>
