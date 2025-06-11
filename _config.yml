@@ -211,6 +211,11 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  external_blockquote:
+    standard_xml: true
+  link_attributes:
+    rel: noopener noreferrer # Recommended for security with _blank
+    target: _blank # This will add target="_blank" to ALL external links
 
 
 # These settings control the types of collections used by the template
