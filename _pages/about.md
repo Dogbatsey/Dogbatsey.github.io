@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I am a Ph.D candidate of Mathematics in the [Department of Mathematics](https://math.ua.edu) at the [University of Alabama](https://www.ua.edu) working under the supervision of [Prof. Shan Zhao](https://sites.ua.edu/szhao/) and [Prof. Yuanzhen Shao](https://sites.ua.edu/yshao/).
+ I am a Ph.D candidate of Mathematics in the [Department of Mathematics](https://math.ua.edu){:target="_blank"} at the [University of Alabama](https://www.ua.edu){:target="_blank"} working under the supervision of [Prof. Shan Zhao](https://sites.ua.edu/szhao/){:target="_blank"} and [Prof. Yuanzhen Shao](https://sites.ua.edu/yshao/){:target="_blank"}.
 
  My research interests inlcude Applied Mathematics, Numerical Analysis, Mathematical Biology, Scientific Computing and Social Dynamics Modeling.
  
@@ -14,13 +14,13 @@ redirect_from:
  
  Education
 ======
-* 2021 - 2026 Ph.D. in Mathematics, [The University of Alabama](https://www.ua.edu), Tuscaloosa, AL, USA
-* 2021 - 2023 M.A. in Mathematics, [The University of Alabama](https://www.ua.edu), Tuscaloosa, AL, USA
-* 2019 - 2020 M.Sc. in Mathematical Sciences, [The African Institute for Mathematical Sciences](https://aims.edu.gh), Ghana (AIMS - GH)
-* 2013 - 2017 B.Sc. in Mathematics with Economics, [University of Cape Coast](https://ucc.edu.gh), Ghana
+* 2021 - 2026 Ph.D. in Mathematics, [The University of Alabama](https://www.ua.edu){:target="_blank"}, Tuscaloosa, AL, USA
+* 2021 - 2023 M.A. in Mathematics, [The University of Alabama](https://www.ua.edu){:target="_blank"}, Tuscaloosa, AL, USA
+* 2019 - 2020 M.Sc. in Mathematical Sciences, [The African Institute for Mathematical Sciences](https://aims.edu.gh){:target="_blank"}, Ghana (AIMS - GH)
+* 2013 - 2017 B.Sc. in Mathematics with Economics, [University of Cape Coast](https://ucc.edu.gh){:target="_blank"}, Ghana
 
 
 Certificates
 ======
-* 2020 Graduate Certificate in Business Management ([AIMS-ESMT Industry Immersion Program](https://nexteinstein.org/i2/aims-esmt-industry-immersion-program-2/)), [ESMT Berlin](https://esmt.berlin), Berlin, Germany
-* 2019 Ghana Stock Exchange [Securities Certification](https://www.gisinstitute.org), [Ghana Stock Exchange](https://gse.com.gh), Accra, Ghana
+* 2020 Graduate Certificate in Business Management ([AIMS-ESMT Industry Immersion Program](https://nexteinstein.org/i2/aims-esmt-industry-immersion-program-2/){:target="_blank"}), [ESMT Berlin](https://esmt.berlin){:target="_blank"}, Berlin, Germany
+* 2019 Ghana Stock Exchange [Securities Certification](https://www.gisinstitute.org){:target="_blank"}, [Ghana Stock Exchange](https://gse.com.gh){:target="_blank"}, Accra, Ghana
