@@ -29,7 +29,7 @@ author:
   location         : "Tuscaloosa, Alabama"
   employer         : "University of Alabama, The"
   position         : "Graduate Research Assistant"
-  cv               : "/files/Matthias_Dogbatsey-CV_2025.pdf"
+#   cv               : "/files/Matthias_Dogbatsey-CV_2025.pdf"
   # uri              : https://www.ua.edu
   email            : "mdogbatsey@crimson.ua.edu" 
 
